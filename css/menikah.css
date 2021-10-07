@@ -130,7 +130,7 @@ html, body {
 }
 
 .main-content .section-light.regular-section .is-larger {
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 @media (max-width: 599px) {
@@ -165,33 +165,33 @@ html, body {
 }
 
 .bodytext {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   color: #22577A;
 
 }
 .titleS {
-  font-size: 1rem;
+  font-size: 1em;
   color: #22577A;
 }
 .sloganText {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   color: #22577A;
 }
 .coupleNameText {
-  font-size: 2rem;
+  font-size: 2em;
   color: #E05D5D;
 }
 
 .contactIcon {
   color: #22577A;
   padding: 4px;
-  font-size: 1rem;
+  font-size: 1em;
 
 }
 
 
 .firmName {
-  font-size: 1.5rem;
+  font-size: 1.5em;
   color: #22577A;
   padding: 4px;
 }
@@ -211,7 +211,7 @@ html, body {
 .hero .subtitle {
   padding-top: 3px;
   padding-bottom: 35px;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   font-weight: 700;
   color: #E05D5D;
 
