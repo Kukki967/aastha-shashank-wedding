@@ -166,86 +166,37 @@ html, body {
 
 /* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
 @media screen and (min-width: 601px) {
- .bodytext {
-    font-size: 80px;
-    color: #22577A;
- }
-  
- .titleS {
-   font-size: 100px;
-   color: #22577A;
-}
-
-.sloganText {
-  font-size: 50px;
+   .bodytext {
+  font-size: 30px;
   color: #22577A;
-}
-
-.coupleNameText {
-  font-size: 100px;
-  color: #E05D5D;
-}
-
-.contactIcon {
-  color: #22577A;
-  padding: 4px;
-  font-size: 1em;
-}
-
-.firmName {
-  font-size: 50px;
-  color: #22577A;
-  padding: 4px;
-}
-
-.hero .title {
-  font-weight: 500;
-  font-size: 100px;
-  color: #22577A;
-}
-
-.hero .subtitle-copy {
-  color: #22577A;
-  font-size: 90px;
-}
-
-.hero .subtitle {
-  padding-top: 3px;
-  padding-bottom: 35px;
-  font-size: 90px;
-  font-weight: 700;
-  color: #E05D5D;
 
 }
-
-.footer p {
-  color: #22577A;
-  font-weight: 500;
-  font-size: 20px;
-  display: inline-block;
-  vertical-align: middle;
-  }
 }
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 @media screen and (max-width: 600px) {
   .bodytext {
-    font-size: 30px;
-    color: #22577A;
-  }
-  
- .titleS {
-   font-size: 70px;
-   color: #22577A;
+  font-size: 30px;
+  color: #22577A;
+
+}
 }
 
-.sloganText {
-  font-size: 20px;
+.bodytext {
+  font-size: 1.5em;
+  color: #22577A;
+
+}
+.titleS {
+  font-size: 1em;
   color: #22577A;
 }
-
+.sloganText {
+  font-size: 1.5em;
+  color: #22577A;
+}
 .coupleNameText {
-  font-size: 50px;
+  font-size: 2em;
   color: #E05D5D;
 }
 
@@ -253,29 +204,32 @@ html, body {
   color: #22577A;
   padding: 4px;
   font-size: 1em;
+
 }
 
+
 .firmName {
-  font-size: 20px;
+  font-size: 1.5em;
   color: #22577A;
   padding: 4px;
 }
 
 .hero .title {
   font-weight: 500;
-  font-size: 70px;
+  font-size: 2em;
   color: #22577A;
 }
 
 .hero .subtitle-copy {
   color: #22577A;
-  font-size: 50px;
+  font-size: 1.5em;
 }
+
 
 .hero .subtitle {
   padding-top: 3px;
   padding-bottom: 35px;
-  font-size: 50px;
+  font-size: 1.5em;
   font-weight: 700;
   color: #E05D5D;
 
@@ -284,13 +238,10 @@ html, body {
 .footer p {
   color: #22577A;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 10pt;
   display: inline-block;
   vertical-align: middle;
-  }
 }
-
-
 
 /*** font style end ***/
 
