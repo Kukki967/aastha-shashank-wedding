@@ -21,7 +21,6 @@ html {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-
 }
 
 
@@ -45,9 +44,9 @@ html, body {
 }
 
 .hero {
+    /*background-image: url('aastha-shashank.jpg');*/
     background-image: url('homepage.svg');
     background-size: cover;
-    font-family: 'Raleway', sans-serif;
 }
 
 
@@ -66,6 +65,7 @@ html, body {
 .hero .hero-foot .hero-foot--wrapper {
     margin: 7px auto;
     height: 50px;
+    font-size: 1.5em;
 }
 
 .hero .hero-foot .hero-foot--wrapper .hero-menu-desktop {
@@ -188,7 +188,7 @@ html, body {
     color: #22577A;
 }
 .sloganText {
-    font-size: 20px;
+    font-size: 23px;
     color: #22577A;
 }
 
@@ -199,11 +199,10 @@ html, body {
 
 .contactIcon {
     color: #22577A;
-    padding: 4px;
-    font-size: 1em;
+    padding:4px;
+    font-size: 1.2em;
 
 }
-
 
 .firmName {
     font-size: 1.5em;
@@ -229,13 +228,12 @@ html, body {
     font-size: 2em;
     font-weight: 700;
     color: #E05D5D;
-
 }
 
 .footer p {
     color: #22577A;
     font-weight: 500;
-    font-size: 10px;
+    font-size: 15px;
     display: inline-block;
     vertical-align: middle;
 }
