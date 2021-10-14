@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33896ab3-4eec-4b47-8b04-33d9a594b047" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/aastha-shashank.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/aastha_shashank.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/aastha_shashank_wed_home_page.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/menikah.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/menikah.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="33896ab3-4eec-4b47-8b04-33d9a594b047" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +42,7 @@
       <workItem from="1633620930850" duration="1790000" />
       <workItem from="1633622750354" duration="1932000" />
       <workItem from="1633624730157" duration="1948000" />
+      <workItem from="1633962051147" duration="99000" />
     </task>
     <servers />
   </component>
